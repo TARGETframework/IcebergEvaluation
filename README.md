@@ -14,7 +14,10 @@ Sample feedback we received from the trainees was "The training was very interes
 - **LO.7 Non security-related knowledge:** Non security-related knowledge significantly increased by 29% from pretest
 (𝑀 = .55, 𝑆𝐷 = .30) to posttest, (𝑀 = .71, 𝑆𝐷 = .24), 𝑡 (49) = −3.63, 𝑝 < 0.001
 
-![image](https://user-images.githubusercontent.com/56884203/189810612-a0959270-87be-4ec2-9960-ab5a8492361d.png)
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/56884203/189810612-a0959270-87be-4ec2-9960-ab5a8492361d.png" width="500" />
+</p>
+
 - **LE.2 Engagement of trainees:** With an overall mean of 4.09 (𝑆𝐷 = .84, 𝑀𝑑𝑛 = 4), the participants’ intrinsic motivation for the training can be considered high. The results for each category are listed below:
 
 <center>
@@ -29,7 +32,10 @@ Sample feedback we received from the trainees was "The training was very interes
 
 </center>
 
-![image](https://user-images.githubusercontent.com/56884203/189811647-4b3d5731-eb93-4db0-b41c-4edf79817a27.png).
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/56884203/189811647-4b3d5731-eb93-4db0-b41c-4edf79817a27.png" width="500" />
+</p>
+
 
 - **LE.3 Appropriate duration:** Participants took an average of 01:02:24 hours to finish the training (𝑆𝐷 = 00:15:03, 𝑀𝑑𝑛 = 01:01:56), which demonstrates that Iceberg CRX can be completed within the regular 90 minutes lecture of the weekly slot of a course at our university
 - **LE.4: Appropriate difficulty:** On average, the participants scored 15.9 out of 24 points (𝑆𝐷 = 6.17, 𝑀𝑑𝑛 = 17) indicating that participants were in general able to solve a majority of the tasks. The participants’ mean rating of the statement if they found the tasks of the CRX overwhelming was 2.43 (𝑆𝐷 = .94) and a median of 2 ("disagree"). The relatively high standard deviation, however, suggests that some participants were overwhelmed by the difficulty of the training. This was also reflected in the feedback from the participants, who felt put off by the complexity of the SIEM dashboard at the beginning of the training. It can be concluded from this that the difficulty level of Iceberg CRX, in part, is too high for the target group.
