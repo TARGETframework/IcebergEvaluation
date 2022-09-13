@@ -13,15 +13,18 @@ Sample feedback we received from the trainees was "The training was very interes
 - **LO.4 Defensive security skills:** With a significant increase 70% from pretest (𝑀 = .56, 𝑆𝐷 = .28) to posttest (𝑀 = .95, 𝑆𝐷 = .17), the highest impact of Iceberg CRX regarding a change in the participants’ skills and knowledge was observed for this criterion, 𝑡 (49) = −9.31, 𝑝 < 0.001. This specifically highlights Iceberg CRX’s potential to convey hands-on cybersecurity skills
 - **LO.7 Non security-related knowledge:** Non security-related knowledge significantly increased by 29% from pretest
 (𝑀 = .55, 𝑆𝐷 = .30) to posttest, (𝑀 = .71, 𝑆𝐷 = .24), 𝑡 (49) = −3.63, 𝑝 < 0.001
-
- <p align="center">
+<br>
+ <p align="left">
   <img src="https://user-images.githubusercontent.com/56884203/189810612-a0959270-87be-4ec2-9960-ab5a8492361d.png" width="500" />
 </p>
+<br>
 
 - **LE.2 Engagement of trainees:** With an overall mean of 4.09 (𝑆𝐷 = .84, 𝑀𝑑𝑛 = 4), the participants’ intrinsic motivation for the training can be considered high. The results for each category are listed below:
 
-<center>
 
+
+<br>
+ 
 |                      | Mean | Median | Standard Deviation |
 |----------------------|------|--------|--------------------|
 |     Attention        | 4.64 |    5   |         0.6        |
@@ -29,12 +32,14 @@ Sample feedback we received from the trainees was "The training was very interes
 |     Confidence       | 3.99 |    4   |         0.8        |
 |     Satisfaction     | 3.75 |    4   |        0.96        |
 |     Metacognition    | 4.07 |    4   |        0.77        |
+<br>
+<br>
 
-</center>
-
- <p align="center">
+ <p align="left">
   <img src="https://user-images.githubusercontent.com/56884203/189811647-4b3d5731-eb93-4db0-b41c-4edf79817a27.png" width="500" />
 </p>
+<br>
+
 
 
 - **LE.3 Appropriate duration:** Participants took an average of 01:02:24 hours to finish the training (𝑆𝐷 = 00:15:03, 𝑀𝑑𝑛 = 01:01:56), which demonstrates that Iceberg CRX can be completed within the regular 90 minutes lecture of the weekly slot of a course at our university
