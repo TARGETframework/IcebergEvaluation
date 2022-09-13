@@ -1,12 +1,10 @@
 # IcebergEvaluation
 
-
-
 ## File description:
+[userData.csv](https://github.com/TARGETframework/IcebergEvaluation/blob/main/userData.csv): Anonymized raw data in csv format
+[userData.xlsx](https://github.com/TARGETframework/IcebergEvaluation/blob/main/userData.xlsx): Anonymized raw data in xlsx format
 
-## Columns of data set
-
-
+## Columns of data set:
 
 | Column                 | Type    | Range       | Description                                                                                       |
 |------------------------|---------|-------------|---------------------------------------------------------------------------------------------------|
