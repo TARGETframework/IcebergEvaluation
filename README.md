@@ -1,11 +1,15 @@
 # IcebergEvaluation
+## Method
 
-# Content
+![image](https://user-images.githubusercontent.com/56884203/189914191-10544553-583f-49a5-b254-9c90f0160e39.png)
+
+
+## Content
 1. [Detailed evaluation results](#detailed-evaluation-results)
 2. [File description](#file-description)
 3. [Columns of data set](#columns-of-data-set)
 
-# Detailed evaluation results
+## Detailed evaluation results
 - **LI.1 Willingness for continuous education and training:**
 Sample feedback we received from the trainees was "The training was very interesting and gave me some interesting insights how this tool works and how attacks do look like in real life. Please more of this!", "The Cyber Range was great, motivated to go deeper into IT-Sec" and "A very cool interface with a lot of useful and probably realistic tools. I really liked the playful idea of teaching and having like a competition against the attacker. A great training that definitely grew my interest in those areas". None of the participants' feedback indicated that they found the training uninteresting or irrelevant. 21 out of the 50 students (42\%) participating in the user study actively signed up to our mailing list to get informed about future CRXs. These results indicate, that Iceberg CRX generally has the potential to raise students' interest in cybersecurity. However, the long-term impact needs to be measured by further studies.
 - **LO.1 Offensive security knowledge:** Offensive security knowledge significantly increased by 42% from pretest (𝑀 = .61, 𝑆𝐷 = .25) to posttest (𝑀 = .87, 𝑆𝐷 = .20), 𝑡 (49) = −6, 38, 𝑝 < 0.001.
@@ -52,11 +56,11 @@ Sample feedback we received from the trainees was "The training was very interes
 - **E.4 Reliability:** During the dry run, the composition of the Docker container failed at two machines. This could be fixed, however, by simply restarting the infrastructure. Once the Docker containers were running on each machine, the Iceberg CRX instances were functioning correctly for the whole duration of the dry run. Hence, the reliability of the system was considered to be sufficient, which was confirmed in the user study, as none of the participants faced any technical difficulties related to the infrastructure. The only problem we faced was monitoring the trainees, as the time recording was incomplete for ten participants.
 - **E.9 Fidelity of tools:** The SIEM tool Dsiem is part of the CRX by Vielberth et al. [ 61] which we utilized as a base for Iceberg CRX. To date, Dsiem is no more actively developed, and technical support is limited. For this reason, Dsiem is now highly unlikely to be used in practice, why the fidelity of the tool is limited.
 
-# File description:
+## File description:
 - [userData.csv](https://github.com/TARGETframework/IcebergEvaluation/blob/main/userData.csv): Anonymized raw data in csv format
 - [userData.xlsx](https://github.com/TARGETframework/IcebergEvaluation/blob/main/userData.xlsx): Anonymized raw data in xlsx format
 
-# Columns of data set:
+## Columns of data set:
 
 | Column                 | Type    | Range       | Description                                                                                       |
 |------------------------|---------|-------------|---------------------------------------------------------------------------------------------------|
