@@ -8,6 +8,7 @@
 1. [Detailed evaluation results](#detailed-evaluation-results)
 2. [File description](#file-description)
 3. [Columns of data set](#columns-of-data-set)
+4. [Questionnaires](#questionnaires)
 
 ## Detailed evaluation results
 - **LI.1 Willingness for continuous education and training:**
@@ -124,5 +125,15 @@ Sample feedback we received from the trainees was "The training was very interes
 | post_difficulty_avg    | float64 | [1;5]       | Average from post_difficulty1 and post_difficulty2                                                |
 | points                 | int64   | [-8;24]     | Points the participant scored during the training                                                 |
 | duration               | int64   |             | Total time the participant took to finish the training                                            |
+
+## Questionnaires
+
+The file [Questionnaires.xlsx](https://github.com/TARGETframework/IcebergEvaluation/blob/main/Questionnaires.xlsx) contains the questions for knowledge assessment in pre- and posttest and the feedback statements the participants rated after the training. The questionnaire was presented to the participants over the platform Quizziz. Screenshots of the UI of the quiz are provided below:
+
+![image](https://user-images.githubusercontent.com/56884203/190182316-7612e564-56a4-4528-a770-77a3678c773c.png)
+![image](https://user-images.githubusercontent.com/56884203/190182382-328f1fcf-a738-4b98-a6dc-b228bfa1dfe3.png)
+
+
+
 
 
