@@ -132,7 +132,7 @@ Sample feedback we received from the trainees was "The training was very interes
 
 ## Questionnaires
 
-The file [Questionnaires.xlsx](https://github.com/TARGETframework/IcebergEvaluation/blob/main/Questionnaires.xlsx) contains the questions for knowledge assessment in pre- and posttest and the feedback statements the participants rated after the training. The questionnaire was presented to the participants over the platform Quizziz. Screenshots of the UI of the quiz are provided below:
+The file [Questionnaires.xlsx](https://github.com/TARGETframework/IcebergEvaluation/blob/main/Questionnaires.xlsx) contains the questions for knowledge assessment in pre- and posttest and the feedback statements the participants rated after the training. The questionnaire was presented to the participants over the platform [Quizziz](https://quizizz.com). Screenshots of the UI of the quiz are provided below:
 
 ![image](https://user-images.githubusercontent.com/56884203/190182316-7612e564-56a4-4528-a770-77a3678c773c.png)
 ![image](https://user-images.githubusercontent.com/56884203/190182382-328f1fcf-a738-4b98-a6dc-b228bfa1dfe3.png)
