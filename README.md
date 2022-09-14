@@ -5,10 +5,15 @@
 
 
 ## Content
-1. [Detailed evaluation results](#detailed-evaluation-results)
-2. [File description](#file-description)
+1. [File description](#file-description)
+2. [Detailed evaluation results](#detailed-evaluation-results)
 3. [Columns of data set](#columns-of-data-set)
 4. [Questionnaires](#questionnaires)
+
+## File description:
+- [userData.csv](https://github.com/TARGETframework/IcebergEvaluation/blob/main/userData.csv): Anonymized raw data in csv format
+- [userData.xlsx](https://github.com/TARGETframework/IcebergEvaluation/blob/main/userData.xlsx): Anonymized raw data in xlsx format
+- [Questionnaires.xlsx](https://github.com/TARGETframework/IcebergEvaluation/blob/main/Questionnaires.xlsx): Items of pre/posttest and feedback statements
 
 ## Detailed evaluation results
 - **LI.1 Willingness for continuous education and training:**
@@ -57,9 +62,7 @@ Sample feedback we received from the trainees was "The training was very interes
 - **E.4 Reliability:** During the dry run, the composition of the Docker container failed at two machines. This could be fixed, however, by simply restarting the infrastructure. Once the Docker containers were running on each machine, the Iceberg CRX instances were functioning correctly for the whole duration of the dry run. Hence, the reliability of the system was considered to be sufficient, which was confirmed in the user study, as none of the participants faced any technical difficulties related to the infrastructure. The only problem we faced was monitoring the trainees, as the time recording was incomplete for ten participants.
 - **E.9 Fidelity of tools:** The SIEM tool Dsiem is part of the CRX by Vielberth et al. [ 61] which we utilized as a base for Iceberg CRX. To date, Dsiem is no more actively developed, and technical support is limited. For this reason, Dsiem is now highly unlikely to be used in practice, why the fidelity of the tool is limited.
 
-## File description:
-- [userData.csv](https://github.com/TARGETframework/IcebergEvaluation/blob/main/userData.csv): Anonymized raw data in csv format
-- [userData.xlsx](https://github.com/TARGETframework/IcebergEvaluation/blob/main/userData.xlsx): Anonymized raw data in xlsx format
+
 
 ## Columns of data set:
 
